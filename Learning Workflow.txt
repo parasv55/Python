@@ -2,8 +2,9 @@
 -> OOPS
 -> Practice Hacker-rank
 -> Projects
--> 
-
-
--> front-end (done)
--> 
+-> SQL (done)
+-> front-end Web (done) 
+-> fetch api, hosting
+-> Django
+-> AWS deployment (nginx)
+-> React
